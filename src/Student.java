@@ -65,7 +65,7 @@ public class Student {
 	       
 	       System.out.println("*****Student Marks In Each Subject Out of 100*****");
 	       System.out.println("Hindi:"+" "+s1.mkr.getHindi());
-	       System.out.println("English:"+" "+s1.mkr.getEnglish());
+	       System.out.println("English:"+ " "+s1.mkr.getEnglish());
 	       System.out.println("Maths:"+" "+s1.mkr.getMaths());
 	       System.out.println("Telugu"+" "+s1.mkr.getTelugu());
 		}

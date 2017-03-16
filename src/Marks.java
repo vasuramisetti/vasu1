@@ -7,7 +7,7 @@ public class Marks {
 	private float hindi;
 	
 	
-		Marks(float telugu,float english,float maths,float hindi)
+		Marks(float telugu,float english,float maths,float hindi )
 		{
 		this.telugu=telugu;
 		this.english=english;
